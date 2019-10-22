@@ -3590,3 +3590,9 @@ Left.
 789
 01:37:08,949 --> 01:37:11,918
 YOU LAUGH
+
+790
+01:37:13,000 --> 01:37:23,000
+Subtitles translated by
+Lucca Fraser, and maintained at
+http://github.com/oblivia-simplex/subtitles
