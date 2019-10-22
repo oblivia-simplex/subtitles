@@ -29,7 +29,7 @@ His name is "Felice".
 
 7
 00:03:23,997 --> 00:03:26,864
-''Happy'' in name,
+"Happy" in name,
 unhappy in fact.
 
 8
